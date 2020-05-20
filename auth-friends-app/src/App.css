@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+.formMain {
+  background: black;
+  color: white;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 5%;
+  padding-top: 2%;
+  background: black;
+}
+
+.mainCard {
+  background: dodgerblue;
+  padding: 5%;
+  border-radius: 30px;
+}
